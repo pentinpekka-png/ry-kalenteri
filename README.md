@@ -1,2 +1,2 @@
-# Ry-kalenteri
+# ry-kalenteri
 Varauskalenteri
